@@ -1,3 +1,7 @@
+# Bloc 6
+## Direction-de-projets-de-gestion-de-donnees
+
+
 # <p align="center">Brainsight: Alzheimer prediction through CNN - Deep learning model</p>
   
 https://www.brainsight.tech
