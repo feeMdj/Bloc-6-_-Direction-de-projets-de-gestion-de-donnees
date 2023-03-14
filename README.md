@@ -1,13 +1,15 @@
 # Bloc 6
 ## Direction-de-projets-de-gestion-de-donnees
 
-Demoday link:
-https://www.youtube.com/watch?v=cRNy1-rTXYg
-
-
 # <p align="center">Brainsight: Alzheimer prediction through CNN - Deep learning model</p>
   
-https://www.brainsight.tech
+website: https://www.brainsight.tech
+
+Demoday link: https://www.youtube.com/watch?v=cRNy1-rTXYg
+
+API: https://api.brainsight.tech/docs
+
+Presentation: pdf file "BrainSight - DemoDay_version_14_01_2023.pdf"
 
 
 ## 🧐 Deployed apps
