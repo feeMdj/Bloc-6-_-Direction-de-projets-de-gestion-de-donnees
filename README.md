@@ -1,9 +1,14 @@
 # Bloc 6
 ## Direction-de-projets-de-gestion-de-donnees
+## VIDEO PRESENTATION
+[LIEN VIDEO DE PRESENTATION](https://share.vidyard.com/watch/s7936AEjz1rPLwrNnAyrqA?)
 
-# <p align="center">Brainsight: Alzheimer prediction through CNN - Deep learning model</p>
+Contact:
+feriel.medjaoui@gmail.com
+
+# Brainsight: Alzheimer prediction through CNN - Deep learning model
   
-website: https://www.brainsight.tech
+Website: https://www.brainsight.tech
 
 Demoday link: https://www.youtube.com/watch?v=cRNy1-rTXYg
 
