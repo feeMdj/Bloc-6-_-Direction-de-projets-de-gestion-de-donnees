@@ -1,7 +1,7 @@
 # Bloc 6
 ## Direction-de-projets-de-gestion-de-donnees
 ## VIDEO PRESENTATION
-[LIEN VIDEO DE PRESENTATION](https://share.vidyard.com/watch/s7936AEjz1rPLwrNnAyrqA?)
+[LIEN VIDEO DE PRESENTATION](https://share.vidyard.com/watch/nPipMUtYYrDwSfPr1bEhTf?)
 
 Contact:
 feriel.medjaoui@gmail.com
