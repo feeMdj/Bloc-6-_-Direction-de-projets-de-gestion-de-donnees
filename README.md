@@ -10,9 +10,9 @@ feriel.medjaoui@gmail.com
   
 Website: https://www.brainsight.tech
 
-Demoday link: https://www.youtube.com/watch?v=cRNy1-rTXYg
-
 API: https://api.brainsight.tech/docs
+
+Demoday link: https://www.youtube.com/watch?v=cRNy1-rTXYg
 
 Presentation: pdf file "BrainSight - DemoDay_version_14_01_2023.pdf"
 
